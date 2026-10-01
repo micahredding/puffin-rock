@@ -1,0 +1,59 @@
+{
+  "_comment": "Who sounds like whom, for tools/narrate.mjs. A speaker with no elevenlabs id is read by the browser's own voice (Moira, en-IE, on Apple devices) until one is cast.",
+  "_notes": "The NARRATOR is the heart of it: the show's is a warm, slow, gently amused Irish man who finds everything a puffin does quietly wonderful — never a children's-TV sing-song. Oona is a bright, kind, curious little Irish girl. Baba is tiny and eager and says very little. Mama is soft; Papa is jolly and a bit proud of his flapping. May is bouncy; Mossy is quick and squeaky and delighted. Cast from the shared library with --find (accent irish), audition with --audition, and put the ids here.",
+  "model": "eleven_v3",
+  "bitrate": 64,
+  "voices": {
+    "narrator": {
+      "elevenlabs": "ZyYWFWAQ8NqzJGWzpBvJ",
+      "_name": "Kevin",
+      "tag": "[softly, warmly, gently amused]"
+    },
+    "oona": {
+      "elevenlabs": "f4EpLLfw2IURnw62TRtz",
+      "_name": "Zoey",
+      "tag": "[like an excited little girl]"
+    },
+    "baba": {
+      "elevenlabs": "E393dkE75hqtz1LO2aEJ",
+      "_name": "Megan",
+      "tag": "[in a tiny, high, little voice]"
+    },
+    "mama": {
+      "elevenlabs": "kOvUpYLYS0rKGldsKcD1",
+      "_name": "Maeve",
+      "tag": "[gently]"
+    },
+    "papa": {
+      "elevenlabs": "N5OEakgvy8bwbFcXZzJ8",
+      "_name": "Jeremy",
+      "tag": "[cheerful, proud]"
+    },
+    "may": {
+      "elevenlabs": "SHER3iLFcTIavdtT5Lbx",
+      "_name": "Kate",
+      "tag": "[bouncy]"
+    },
+    "mossy": {
+      "elevenlabs": "ehKZw5kruBt73Gytae2x",
+      "_name": "Robyn",
+      "tag": "[quick, excited, tiny and squeaky]"
+    },
+    "silky": {
+      "elevenlabs": "1OYA2kgM85gF2eGN8HEp",
+      "_name": "Colleen",
+      "tag": "[warmly, playful]"
+    },
+    "marvin": {
+      "elevenlabs": "RlSVB64yXMZJjq67jbB1",
+      "_name": "Bren",
+      "tag": "[shy, gentle, a little hesitant]"
+    },
+    "bernie": {
+      "elevenlabs": "1yDXKNtyiAtDljYHKmZy",
+      "_name": "Paddy",
+      "tag": "[cheerful, a jolly old seafarer]"
+    }
+  },
+  "_cast": "Chosen 2026-09-29 from the ElevenLabs library, all Irish voices, auditioned by ear: Kevin narrates (deep, warm, soft; the user found Thomas too high). There are no Irish children's voices, so Oona, Baba and Mossy are grown voices directed small."
+}

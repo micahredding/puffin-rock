@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex">
+  <meta charset="UTF-8">
+  <title>PUFFIN ROCK</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Puffin Rock">
+  <meta name="theme-color" content="#b0d4de">
+  <style>
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0; padding: 0; height: 100%; overflow: hidden; background: #b0d4de;
+      -webkit-text-size-adjust: 100%;
+      -webkit-tap-highlight-color: transparent;
+      -webkit-user-select: none; user-select: none;
+      touch-action: none;
+      font-family: "SF Mono", Menlo, Consolas, monospace;
+    }
+    body { position: fixed; inset: 0; }
+    #game { display: block; width: 100%; height: 100%; touch-action: none; }
+    /* Parent-facing: dim, small, out of the way. */
+    #mute {
+      position: fixed; top: max(6px, env(safe-area-inset-top)); right: max(6px, env(safe-area-inset-right));
+      background: rgba(255,255,255,0.3); color: #3d5a6e; border: 0; border-radius: 4px;
+      font: inherit; font-size: 15px; line-height: 1; padding: 8px 10px; z-index: 12; cursor: pointer;
+    }
+    #mute.off { color: #7a5c14; background: rgba(245,217,90,0.4); }
+    /* The badge shelf: earned ones show, the rest are rings. Only goes up. */
+    #badges {
+      position: fixed; top: max(8px, env(safe-area-inset-top)); left: max(10px, env(safe-area-inset-left));
+      font-size: 24px; z-index: 12; letter-spacing: 3px; pointer-events: none;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.15);
+    }
+    #badges { display: flex; flex-wrap: wrap; max-width: 70vw; }
+    #badges span { display: inline-block; }
+    /* A badge just won: its place on the shelf lights up and ripples. */
+    #badges span { position: relative; border-radius: 50%; }
+    #badges span.fresh { animation: won 2.6s ease-out; }
+    #badges span.fresh::before, #badges span.fresh::after {
+      content: ''; position: absolute; inset: -6px; border-radius: 50%; pointer-events: none;
+    }
+    #badges span.fresh::before { background: radial-gradient(circle, rgba(255,236,150,0.95) 0%, rgba(255,214,90,0.45) 45%, rgba(255,214,90,0) 70%); z-index: -1; animation: glow 2.6s ease-out forwards; }
+    #badges span.fresh::after { border: 3px solid rgba(255,226,120,0.9); animation: ripple 1.3s ease-out 2; }
+    @keyframes won { 0% { transform: scale(0.2); } 12% { transform: scale(1.7); } 24% { transform: scale(0.9); } 34% { transform: scale(1.25); } 55%, 100% { transform: scale(1); } }
+    @keyframes glow { 0% { opacity: 0; transform: scale(0.6); } 15% { opacity: 1; transform: scale(1.6); } 70% { opacity: 0.8; transform: scale(1.3); } 100% { opacity: 0; transform: scale(1); } }
+    @keyframes ripple { 0% { opacity: 1; transform: scale(0.8); } 100% { opacity: 0; transform: scale(2.4); } }
+
+    #boot {
+      position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
+      color: #3d5a6e; font-size: 13px; letter-spacing: 0.16em; z-index: 30;
+      background: #b0d4de; text-align: center; padding: 24px; line-height: 1.8;
+    }
+    #boot.gone { display: none; }
+    /* Before anything: one big tap, which is also what lets the voice speak. */
+    #begin {
+      position: fixed; inset: 0; z-index: 25; display: flex; flex-direction: column; gap: 18px;
+      align-items: center; justify-content: center; background: rgba(176,212,222,0.9);
+      color: #3d5a6e; font-size: 15px; letter-spacing: 0.16em; cursor: pointer; text-align: center;
+    }
+    #begin .big { font-size: 96px; letter-spacing: 0; }
+    #begin[hidden] { display: none; }
+    /* Through the burrow door: a quick fade to the dark of the earth, the
+       tunnels swapped in under it, and back. */
+    #fade {
+      position: fixed; inset: 0; background: #3a2618; opacity: 0; pointer-events: none;
+      transition: opacity 240ms ease-in-out; z-index: 15;
+    }
+    #fade.on { opacity: 1; pointer-events: auto; }
+  </style>
+</head>
+<body>
+<canvas id="game"></canvas>
+<div id="badges"></div>
+<div id="boot">PUFFIN ROCK IS WAKING…</div>
+<button id="mute" type="button" title="sound on/off">♪</button>
+<div id="fade"></div>
+<div id="begin" hidden><div class="big">🌊</div><div>TAP TO BEGIN</div></div>
+
+<!-- Nothing inside a module can report a module that fails to PARSE, so the
+     watchdog is a classic script. Nine seconds, then say so on screen: the
+     iPad has no console. Same pattern as the caterpillar. -->
+<script>
+  window.__puffinBooted = false;
+  setTimeout(function () {
+    if (window.__puffinBooted) return;
+    var b = document.getElementById('boot');
+    if (b) b.innerHTML = 'COULD NOT START<br>' + location.pathname + '<br>TAP TO TRY AGAIN';
+    document.body.onclick = function () { location.reload(); };
+  }, 9000);
+  addEventListener('unhandledrejection', function (e) {
+    var b = document.getElementById('boot');
+    if (b && !window.__puffinBooted) b.textContent = String((e.reason && e.reason.message) || e.reason);
+  });
+  addEventListener('error', function (e) {
+    var b = document.getElementById('boot');
+    if (b && !window.__puffinBooted) b.textContent = String(e.message || e);
+  });
+</script>
+
+<script type="module">
+  import { start } from './js/game.js';
+
+  const who = (new URLSearchParams(location.search).get('who') || '').replace(/[^a-z0-9_-]/gi, '').slice(0, 20);
+
+  // Fire-and-forget progress logging, the same shape the other games use.
+  function log(entry) {
+    if (who) entry.who = who;
+    try {
+      fetch(`${location.origin}/log`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(entry), keepalive: true,
+      }).catch(() => {});
+    } catch { /* nothing to do */ }
+  }
+  const moment = (verb, extra = {}) => log({ game: 'puffin', event: 'moment', verb, ...extra });
+
+  const fadeEl = document.getElementById('fade');
+  function fade(mid) {
+    fadeEl.classList.add('on');
+    setTimeout(() => { mid(); requestAnimationFrame(() => fadeEl.classList.remove('on')); }, 260);
+  }
+  const game = start(document.getElementById('game'), document.getElementById('badges'), { log, moment, who, fade });
+  window._puffin = game;
+
+  // One tap to begin: it unlocks the sound and the voice, and the narrator
+  // says hello. The tap is also what lets iOS play the recorded clips.
+  const begin = document.getElementById('begin');
+  begin.hidden = false;
+  begin.addEventListener('click', (e) => {
+    e.stopPropagation();
+    begin.hidden = true;
+    game.begin();
+  });
+
+  addEventListener('pagehide', () => {
+    try {
+      const entry = { game: 'puffin', event: 'moment', verb: 'quit', ...game.snapshot() };
+      if (who) entry.who = who;
+      navigator.sendBeacon(`${location.origin}/log`, JSON.stringify(entry));
+    } catch { /* nothing to do */ }
+  });
+
+  const muteBtn = document.getElementById('mute');
+  const paintMute = () => {
+    muteBtn.textContent = game.sound.muted ? '♪̸' : '♪';
+    muteBtn.classList.toggle('off', game.sound.muted);
+  };
+  paintMute();
+  muteBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    game.sound.unlock();
+    game.toggleMute();
+    paintMute();
+  });
+
+  document.getElementById('boot').classList.add('gone');
+  window.__puffinBooted = true;
+</script>
+</body>
+</html>

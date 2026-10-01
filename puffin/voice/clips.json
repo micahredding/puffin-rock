@@ -1,0 +1,1626 @@
+{
+  "hello": {
+    "file": "hello.mp3",
+    "text": "This is Puffin Rock. And this is Oona, and her little brother, Baba.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "hello-again": {
+    "file": "hello-again.mp3",
+    "text": "Good morning, Puffin Rock! Oona and Baba are ready for an adventure.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "burrow-in": {
+    "file": "burrow-in.mp3",
+    "text": "Puffins live in burrows. A burrow is a cosy hole in the ground, dug with beaks and feet.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "burrow-in-2": {
+    "file": "burrow-in-2.mp3",
+    "text": "Back inside the burrow. Nice and snug.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "burrow-fact": {
+    "file": "burrow-fact.mp3",
+    "text": "Puffins often come back to the very same burrow, year after year.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "burrow-out": {
+    "file": "burrow-out.mp3",
+    "text": "And out they pop!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "mama-1": {
+    "file": "mama-1.mp3",
+    "text": "Hello, my little puffins!",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "mama-2": {
+    "file": "mama-2.mp3",
+    "text": "Stay close to Baba, Oona. He is only little.",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "mama-3": {
+    "file": "mama-3.mp3",
+    "text": "Have you been to see the dandelions?",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "papa-1": {
+    "file": "papa-1.mp3",
+    "text": "Off you go exploring, you two!",
+    "who": "papa",
+    "voice": "N5OEakgvy8bwbFcXZzJ8",
+    "tag": "[cheerful, proud]"
+  },
+  "papa-2": {
+    "file": "papa-2.mp3",
+    "text": "Watch me flap! Puffins can flap their wings four hundred times a minute!",
+    "who": "papa",
+    "voice": "N5OEakgvy8bwbFcXZzJ8",
+    "tag": "[cheerful, proud]"
+  },
+  "papa-3": {
+    "file": "papa-3.mp3",
+    "text": "I hear Mossy has found something fun up on the rocks.",
+    "who": "papa",
+    "voice": "N5OEakgvy8bwbFcXZzJ8",
+    "tag": "[cheerful, proud]"
+  },
+  "flap": {
+    "file": "flap.mp3",
+    "text": "Flap, flap, flap! Puffins beat their wings very, very fast.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "baba-wait": {
+    "file": "baba-wait.mp3",
+    "text": "Oona! Wait for me!",
+    "who": "baba",
+    "voice": "E393dkE75hqtz1LO2aEJ",
+    "tag": "[in a tiny, high, little voice]"
+  },
+  "baba-fly": {
+    "file": "baba-fly.mp3",
+    "text": "Baba can't fly yet. He's a puffling: a baby puffin. So he waddles instead.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "dandelion-hint": {
+    "file": "dandelion-hint.mp3",
+    "text": "Dandelion clocks! Blow on them, and see what happens.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-1": {
+    "file": "count-1.mp3",
+    "text": "One!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-2": {
+    "file": "count-2.mp3",
+    "text": "Two!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-3": {
+    "file": "count-3.mp3",
+    "text": "Three!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-4": {
+    "file": "count-4.mp3",
+    "text": "Four!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-5": {
+    "file": "count-5.mp3",
+    "text": "Five!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "dandelions-all": {
+    "file": "dandelions-all.mp3",
+    "text": "Five dandelion clocks! The wind carries their seeds far, far away, and where they land, new dandelions grow.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "dandelions-back": {
+    "file": "dandelions-back.mp3",
+    "text": "Look! The dandelion clocks are back.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "may-1": {
+    "file": "may-1.mp3",
+    "text": "Hello, Oona! Hello, Baba! Watch me hop!",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "may-2": {
+    "file": "may-2.mp3",
+    "text": "May the rabbit lives in a burrow too, just like the puffins.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "may-3": {
+    "file": "may-3.mp3",
+    "text": "Hop, hop, hop! Can you hop like me?",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "mossy-hello": {
+    "file": "mossy-hello.mp3",
+    "text": "Oona! Baba! Look what I found! Wheeee!",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "mossy-1": {
+    "file": "mossy-1.mp3",
+    "text": "Hello, Oona! It's me, Mossy!",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "mossy-2": {
+    "file": "mossy-2.mp3",
+    "text": "Sit in the eggshell, and down you go!",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "mossy-3": {
+    "file": "mossy-3.mp3",
+    "text": "Mossy is a pygmy shrew. One of the smallest animals on Puffin Rock.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "egg-hint": {
+    "file": "egg-hint.mp3",
+    "text": "A piece of eggshell. Just the right size for sliding.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "whee": {
+    "file": "whee.mp3",
+    "text": "Wheeeeeeeeee!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "slide-1": {
+    "file": "slide-1.mp3",
+    "text": "They all slide down the slope!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "slide-2": {
+    "file": "slide-2.mp3",
+    "text": "Again! Again!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "slide-3": {
+    "file": "slide-3.mp3",
+    "text": "Round and round they go. Up the rocks, and down the slide.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "sea": {
+    "file": "sea.mp3",
+    "text": "The sea! Puffins dive under the waves, using their wings to swim, to catch little silver fish.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "sea-fact": {
+    "file": "sea-fact.mp3",
+    "text": "A puffin can carry a whole row of fish in its beak, all at once.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "hint": {
+    "file": "hint.mp3",
+    "text": "I wonder what Oona will find over there?",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "swim": {
+    "file": "swim.mp3",
+    "text": "Splash! Puffins float on the sea like little boats, paddling with their orange feet.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "dive": {
+    "file": "dive.mp3",
+    "text": "Down she dives! Under the water, puffins swim with their wings, as if they were flying.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "surface": {
+    "file": "surface.mp3",
+    "text": "Look, Baba! I can swim like Papa!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "deep": {
+    "file": "deep.mp3",
+    "text": "Down, down, down, all the way to the bottom of the sea.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "baba-float": {
+    "file": "baba-float.mp3",
+    "text": "Baba can float too. He's too little to dive, not yet. So he bobs along on top.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-6": {
+    "file": "count-6.mp3",
+    "text": "Six!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-7": {
+    "file": "count-7.mp3",
+    "text": "Seven!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-8": {
+    "file": "count-8.mp3",
+    "text": "Eight!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-9": {
+    "file": "count-9.mp3",
+    "text": "Nine!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "count-10": {
+    "file": "count-10.mp3",
+    "text": "Ten!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "fish-first": {
+    "file": "fish-first.mp3",
+    "text": "A fish! Puffins carry the fish they catch crosswise in their beaks, like this.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "fish-full": {
+    "file": "fish-full.mp3",
+    "text": "Ten fish! Oona's beak is full.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "baba-hungry": {
+    "file": "baba-hungry.mp3",
+    "text": "Oona! I'm hungry!",
+    "who": "baba",
+    "voice": "E393dkE75hqtz1LO2aEJ",
+    "tag": "[in a tiny, high, little voice]"
+  },
+  "fish-hint": {
+    "file": "fish-hint.mp3",
+    "text": "Baba is hungry. Maybe Oona can catch him some fish from the sea.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "fed": {
+    "file": "fed.mp3",
+    "text": "Yum! Puffin mums and dads fly out to sea again and again, to bring their pufflings fish.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "baba-thanks": {
+    "file": "baba-thanks.mp3",
+    "text": "Thank you, Oona! More fish, please!",
+    "who": "baba",
+    "voice": "E393dkE75hqtz1LO2aEJ",
+    "tag": "[in a tiny, high, little voice]"
+  },
+  "wood": {
+    "file": "wood.mp3",
+    "text": "This is the Mossy Wood. It is shady, and quiet, and everything is soft and green.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "wood-fact": {
+    "file": "wood-fact.mp3",
+    "text": "Moss grows where it is damp and shady. It is soft and springy, like a cushion.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "mushroom-hint": {
+    "file": "mushroom-hint.mp3",
+    "text": "Some of these mushrooms glow. Touch one, and see.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "mushrooms-all": {
+    "file": "mushrooms-all.mp3",
+    "text": "Five glowing mushrooms! Now the whole wood is lit up.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "pond": {
+    "file": "pond.mp3",
+    "text": "The pond! Look at the lily pads. The frog is bouncing on them.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "boing": {
+    "file": "boing.mp3",
+    "text": "Boing! The lily pads are bouncy!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "frog": {
+    "file": "frog.mp3",
+    "text": "Ribbit! Frogs love lily pads. They sit on them in the sun, and wait for flies.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "cliffs": {
+    "file": "cliffs.mp3",
+    "text": "The seabird cliffs. Gannets and kittiwakes make their nests on the ledges, high above the sea.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "wind": {
+    "file": "wind.mp3",
+    "text": "Whoosh! The wind blows up the cliff, and lifts Oona up, up, up, just like the seabirds.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "silky-see": {
+    "file": "silky-see.mp3",
+    "text": "Look! It's Silky the seal, resting on her rock.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "silky-hello": {
+    "file": "silky-hello.mp3",
+    "text": "Hello, Oona! Hop on my back, and hold on tight!",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "silky-fact": {
+    "file": "silky-fact.mp3",
+    "text": "Seals are wonderful swimmers. Silky can stay under the water for a long, long time.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "silky-again": {
+    "file": "silky-again.mp3",
+    "text": "That was fun! Come back any time, Oona.",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "shore": {
+    "file": "shore.mp3",
+    "text": "The rocky shore. Look in the rock pools: all sorts of creatures live in them.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "crab": {
+    "file": "crab.mp3",
+    "text": "A crab! Crabs walk sideways. Scuttle, scuttle, scuttle!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "anemone": {
+    "file": "anemone.mp3",
+    "text": "A sea anemone. Touch it gently, and it closes up tight.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "blowhole-hint": {
+    "file": "blowhole-hint.mp3",
+    "text": "Whoosh! That's a blowhole. The waves push the water up through a hole in the rock.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "blowhole": {
+    "file": "blowhole.mp3",
+    "text": "Wheeeeee! Again!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "tunnels": {
+    "file": "tunnels.mp3",
+    "text": "And look: tunnels, winding all the way under Puffin Rock!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "nest": {
+    "file": "nest.mp3",
+    "text": "The nest, lined with soft dry grass and feathers. Time for a little nap.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "wake": {
+    "file": "wake.mp3",
+    "text": "Wake up, Baba! Let's explore!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "hedgehog": {
+    "file": "hedgehog.mp3",
+    "text": "Shh! A hedgehog, fast asleep. Hedgehogs sleep all day, and wake up at night to look for beetles and worms.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "hedgehog-2": {
+    "file": "hedgehog-2.mp3",
+    "text": "Sniff, sniff. He curls up into a prickly ball!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "worm": {
+    "file": "worm.mp3",
+    "text": "A worm! Worms dig tiny tunnels of their own, and keep the soil soft and healthy.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "warren": {
+    "file": "warren.mp3",
+    "text": "Hello, Oona! You climbed up into our warren! Meet my brothers and sisters!",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "rabbits-fact": {
+    "file": "rabbits-fact.mp3",
+    "text": "Puffins sometimes make their homes in old rabbit burrows. So puffins and rabbits can be neighbours, underground!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "marvin-hello": {
+    "file": "marvin-hello.mp3",
+    "text": "Oh! Hello, Oona. I'm Marvin. Watch my big splash!",
+    "who": "marvin",
+    "voice": "RlSVB64yXMZJjq67jbB1",
+    "tag": "[shy, gentle, a little hesitant]"
+  },
+  "marvin-fact": {
+    "file": "marvin-fact.mp3",
+    "text": "Otters love to play in the water. Fly up high over the pond, and let go, to splash like Marvin!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "bridge": {
+    "file": "bridge.mp3",
+    "text": "An old stone bridge, all covered in soft green moss.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "sheep": {
+    "file": "sheep.mp3",
+    "text": "Baa! A mammy sheep and her little lamb, munching the sweet grass.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "bernie-1": {
+    "file": "bernie-1.mp3",
+    "text": "Hello, Oona! This shell is much too big for me.",
+    "who": "bernie",
+    "voice": "1yDXKNtyiAtDljYHKmZy",
+    "tag": "[cheerful, a jolly old seafarer]"
+  },
+  "bernie-2": {
+    "file": "bernie-2.mp3",
+    "text": "Hmm. Now this one's too small!",
+    "who": "bernie",
+    "voice": "1yDXKNtyiAtDljYHKmZy",
+    "tag": "[cheerful, a jolly old seafarer]"
+  },
+  "bernie-3": {
+    "file": "bernie-3.mp3",
+    "text": "Ah! This one is just right!",
+    "who": "bernie",
+    "voice": "1yDXKNtyiAtDljYHKmZy",
+    "tag": "[cheerful, a jolly old seafarer]"
+  },
+  "bernie-fact": {
+    "file": "bernie-fact.mp3",
+    "text": "Hermit crabs don't grow shells of their own. They borrow empty ones, and move into bigger ones as they grow.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "kelp": {
+    "file": "kelp.mp3",
+    "text": "A kelp forest! Kelp is a seaweed that grows tall and wavy, like trees under the sea.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "jelly": {
+    "file": "jelly.mp3",
+    "text": "Moon jellies, drifting along with the sea. Look, but don't touch. They can sting!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "whale": {
+    "file": "whale.mp3",
+    "text": "Look, far out to sea! A whale, coming up to breathe. Whoosh!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "cannonball": {
+    "file": "cannonball.mp3",
+    "text": "Cannonball! Splash!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "cannonball-2": {
+    "file": "cannonball-2.mp3",
+    "text": "Wow, Oona! That was an even bigger splash than mine!",
+    "who": "marvin",
+    "voice": "RlSVB64yXMZJjq67jbB1",
+    "tag": "[shy, gentle, a little hesitant]"
+  },
+  "climb": {
+    "file": "climb.mp3",
+    "text": "Up, up, up the roots! Come on, Baba!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "branches": {
+    "file": "branches.mp3",
+    "text": "The tunnels go every which way! One goes up, and one goes down, down, down.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "pantry": {
+    "file": "pantry.mp3",
+    "text": "A little larder, full of seeds and nuts and berries. Whose could it be?",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "peekaboo": {
+    "file": "peekaboo.mp3",
+    "text": "Peekaboo! I see you!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "mouse": {
+    "file": "mouse.mp3",
+    "text": "A wood mouse! Mice store seeds and nuts underground, to eat in the winter.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "cave": {
+    "file": "cave.mp3",
+    "text": "A deep, dark cave. Look at the mushrooms, and all those silvery threads.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "fungi": {
+    "file": "fungi.mp3",
+    "text": "Fungi grow long threads under the ground, joining the roots of the plants together, like a secret web.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "glow": {
+    "file": "glow.mp3",
+    "text": "Ooh! The light goes all the way along!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "dunes": {
+    "file": "dunes.mp3",
+    "text": "The sand dunes! Marram grass holds all the sand together, with its long, long roots.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "dig-hint": {
+    "file": "dig-hint.mp3",
+    "text": "Something is hidden in the sand. Dig, and see what you find!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "dig-glass": {
+    "file": "dig-glass.mp3",
+    "text": "Sea glass! Smooth and shiny, like a jewel!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "dig-scallop": {
+    "file": "dig-scallop.mp3",
+    "text": "A scallop shell! It looks like a little fan.",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "dig-purse": {
+    "file": "dig-purse.mp3",
+    "text": "A mermaid's purse! It's really an egg case. A baby dogfish grew inside it, and swam away.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "dig-all": {
+    "file": "dig-all.mp3",
+    "text": "Three treasures from the sand! What a lucky puffin.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "bog": {
+    "file": "bog.mp3",
+    "text": "A boggy place. The ground is soft and squelchy, and white bog cotton nods in the breeze.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "dragonfly": {
+    "file": "dragonfly.mp3",
+    "text": "Dragonflies! They can fly forwards, and backwards, and even stop still in the air.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "falls": {
+    "file": "falls.mp3",
+    "text": "A waterfall! The water tumbles down the rocks, splish, splash, into the pool.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "shower": {
+    "file": "shower.mp3",
+    "text": "It's a shower! Brrr! Splashy!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "rainbow": {
+    "file": "rainbow.mp3",
+    "text": "Look! A rainbow! When the sun shines through the spray, it makes all the colours.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "night": {
+    "file": "night.mp3",
+    "text": "Night time on Puffin Rock. Look at all the stars!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "morning": {
+    "file": "morning.mp3",
+    "text": "Good morning, Puffin Rock! A brand new day.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "fireflies": {
+    "file": "fireflies.mp3",
+    "text": "Fireflies! They make their own little lights, blinking on and off.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "bedtime": {
+    "file": "bedtime.mp3",
+    "text": "It's bedtime, my little puffins. In you come!",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "goodnight": {
+    "file": "goodnight.mp3",
+    "text": "Goodnight, Oona. Goodnight, Baba. Sweet dreams.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "plankton": {
+    "file": "plankton.mp3",
+    "text": "Look! At night, tiny creatures in the sea glow, wherever Oona swims.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "hedgehog-night": {
+    "file": "hedgehog-night.mp3",
+    "text": "The hedgehog is awake! Hedgehogs come out at night, to find their supper.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "sun-down": {
+    "file": "sun-down.mp3",
+    "text": "Goodnight, sun!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "sun-up": {
+    "file": "sun-up.mp3",
+    "text": "Good morning, sun!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "papa-fly": {
+    "file": "papa-fly.mp3",
+    "text": "Follow me, Oona! Up, up we go!",
+    "who": "papa",
+    "voice": "N5OEakgvy8bwbFcXZzJ8",
+    "tag": "[cheerful, proud]"
+  },
+  "papa-fly-fact": {
+    "file": "papa-fly-fact.mp3",
+    "text": "Puffins fly fast and low, flapping their wings all the way.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "papa-fly-end": {
+    "file": "papa-fly-end.mp3",
+    "text": "Well done, Oona! You're a real flyer now!",
+    "who": "papa",
+    "voice": "N5OEakgvy8bwbFcXZzJ8",
+    "tag": "[cheerful, proud]"
+  },
+  "still-shh": {
+    "file": "still-shh.mp3",
+    "text": "Shh. If Oona stays very, very still...",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "butterfly": {
+    "file": "butterfly.mp3",
+    "text": "A butterfly! It's landed right on Oona's head!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "bee": {
+    "file": "bee.mp3",
+    "text": "And a bumblebee! Bumblebees visit the flowers, and help them make their seeds.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "flyaway": {
+    "file": "flyaway.mp3",
+    "text": "Oh! Bye bye!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "rain": {
+    "file": "rain.mp3",
+    "text": "Pitter, patter. It's raining on Puffin Rock!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "rain-fact": {
+    "file": "rain-fact.mp3",
+    "text": "Puffins don't mind the rain. Their feathers are waterproof!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "puddle": {
+    "file": "puddle.mp3",
+    "text": "Splish! Splash! Puddles are for jumping in!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "hide-start": {
+    "file": "hide-start.mp3",
+    "text": "Let's play hide and seek! You count, Oona!",
+    "who": "baba",
+    "voice": "E393dkE75hqtz1LO2aEJ",
+    "tag": "[in a tiny, high, little voice]"
+  },
+  "hide-ready": {
+    "file": "hide-ready.mp3",
+    "text": "Ready or not, here I come!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "hide-hint": {
+    "file": "hide-hint.mp3",
+    "text": "Listen! Can you hear Baba giggling?",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "hide-found": {
+    "file": "hide-found.mp3",
+    "text": "You found me! Again, again!",
+    "who": "baba",
+    "voice": "E393dkE75hqtz1LO2aEJ",
+    "tag": "[in a tiny, high, little voice]"
+  },
+  "oona-1": {
+    "file": "oona-1.mp3",
+    "text": "Hello!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "oona-2": {
+    "file": "oona-2.mp3",
+    "text": "I'm Oona!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "oona-3": {
+    "file": "oona-3.mp3",
+    "text": "Where shall we go next, Baba?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "hello-echo": {
+    "file": "hello-echo.mp3",
+    "text": "Hellooo!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "neighbours": {
+    "file": "neighbours.mp3",
+    "text": "The neighbours are popping out to say hello!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "footprints": {
+    "file": "footprints.mp3",
+    "text": "Footprints in the sand! The waves will wash them away.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "frog-fly": {
+    "file": "frog-fly.mp3",
+    "text": "Slurp! The frog caught a fly, with its long, sticky tongue.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "bunny": {
+    "file": "bunny.mp3",
+    "text": "A bunny! Rabbits dig lots of holes, all joined up under the ground.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "mouse-nibble": {
+    "file": "mouse-nibble.mp3",
+    "text": "The mouse is having a little snack. Nibble, nibble.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "pup": {
+    "file": "pup.mp3",
+    "text": "Silky's pup! A baby seal is called a pup.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "talk-may-a": {
+    "file": "talk-may-a.mp3",
+    "text": "Oh, hello, Oona! Come in, come in. This old log is my favourite hiding place.",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "talk-may-b": {
+    "file": "talk-may-b.mp3",
+    "text": "It's so cosy in here!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-may-c": {
+    "file": "talk-may-c.mp3",
+    "text": "When it rains, I sit in here and listen to the drops go pitter, patter on the roof.",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "talk-may-d-1": {
+    "file": "talk-may-d-1.mp3",
+    "text": "Ooh, clover! Is that your favourite food, May?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-may-d-2": {
+    "file": "talk-may-d-2.mp3",
+    "text": "Is that your burrow? How many brothers and sisters live in there?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-may-e1": {
+    "file": "talk-may-e1.mp3",
+    "text": "Clover! Sweet, juicy clover. And dandelion leaves. Nibble, nibble, nibble, all day long.",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "talk-may-e2": {
+    "file": "talk-may-e2.mp3",
+    "text": "Rabbits' teeth never stop growing. So they have to keep on chewing!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "talk-may-f1": {
+    "file": "talk-may-f1.mp3",
+    "text": "Oh, lots and lots! Too many to count! We all live together, in our warren.",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "talk-may-f2": {
+    "file": "talk-may-f2.mp3",
+    "text": "Baba's my only brother. But sometimes he feels like lots!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-may-f3": {
+    "file": "talk-may-f3.mp3",
+    "text": "Ha ha! Little brothers are like that.",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "talk-may-g-1": {
+    "file": "talk-may-g-1.mp3",
+    "text": "Can you teach me to hop, all the way up onto that stump?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-may-g-2": {
+    "file": "talk-may-g-2.mp3",
+    "text": "Look, the moon's out already. What do you do at night, May?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-may-h1": {
+    "file": "talk-may-h1.mp3",
+    "text": "Of course! Bend your legs, and, boing! Now you try!",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "talk-may-h2": {
+    "file": "talk-may-h2.mp3",
+    "text": "Boing! Boing! Oops!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-may-h3": {
+    "file": "talk-may-h3.mp3",
+    "text": "That was a very good puffin hop!",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "talk-may-i1": {
+    "file": "talk-may-i1.mp3",
+    "text": "We come out to nibble the grass when it gets quiet, in the evening, and early in the morning.",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "talk-may-i2": {
+    "file": "talk-may-i2.mp3",
+    "text": "Rabbits have big eyes and long ears, so they can see and hear, even in the dark.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "talk-may-z": {
+    "file": "talk-may-z.mp3",
+    "text": "Come back and visit me again soon, Oona. And bring Baba too!",
+    "who": "may",
+    "voice": "SHER3iLFcTIavdtT5Lbx",
+    "tag": "[bouncy]"
+  },
+  "talk-mossy-a": {
+    "file": "talk-mossy-a.mp3",
+    "text": "Oona! Sit here with me. You can see the whole sea from up here!",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "talk-mossy-b": {
+    "file": "talk-mossy-b.mp3",
+    "text": "Wow. It's so big. And so blue.",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mossy-c": {
+    "file": "talk-mossy-c.mp3",
+    "text": "I come up here every day, to watch the waves, and the birds, and the clouds.",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "talk-mossy-d-1": {
+    "file": "talk-mossy-d-1.mp3",
+    "text": "A beetle! Mossy, is that what you eat?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mossy-d-2": {
+    "file": "talk-mossy-d-2.mp3",
+    "text": "Mossy, what shape is that cloud?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mossy-e1": {
+    "file": "talk-mossy-e1.mp3",
+    "text": "Beetles! And spiders, and woodlice. I have to eat and eat, because I'm so tiny.",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "talk-mossy-e2": {
+    "file": "talk-mossy-e2.mp3",
+    "text": "A pygmy shrew is so small, it has to eat nearly all the time, to keep warm.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "talk-mossy-f1": {
+    "file": "talk-mossy-f1.mp3",
+    "text": "Hmm. I think it looks like a giant fish! Or maybe a sleepy seal.",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "talk-mossy-f2": {
+    "file": "talk-mossy-f2.mp3",
+    "text": "I think it looks like Baba!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mossy-f3": {
+    "file": "talk-mossy-f3.mp3",
+    "text": "Ha! It does! All fluffy!",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "talk-mossy-g": {
+    "file": "talk-mossy-g.mp3",
+    "text": "Oona, do you ever wish you could fly all the way across the sea?",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "talk-mossy-h-1": {
+    "file": "talk-mossy-h-1.mp3",
+    "text": "Look, a feather! Yes! One day I'll fly far, far away!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mossy-h-2": {
+    "file": "talk-mossy-h-2.mp3",
+    "text": "No. Look, there's a burrow, just like ours. I like it here, on Puffin Rock.",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mossy-i1": {
+    "file": "talk-mossy-i1.mp3",
+    "text": "And then you would come back, and tell me all about it?",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "talk-mossy-i2": {
+    "file": "talk-mossy-i2.mp3",
+    "text": "I promise, Mossy.",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mossy-j1": {
+    "file": "talk-mossy-j1.mp3",
+    "text": "Me too. Puffin Rock is the best place in the whole wide world.",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "talk-mossy-z": {
+    "file": "talk-mossy-z.mp3",
+    "text": "Oh! Is that a beetle? Bye, Oona!",
+    "who": "mossy",
+    "voice": "ehKZw5kruBt73Gytae2x",
+    "tag": "[quick, excited, tiny and squeaky]"
+  },
+  "talk-marvin-a": {
+    "file": "talk-marvin-a.mp3",
+    "text": "Oh! Hello, Oona. Do you want to sit on the bridge with me? I like to watch the water.",
+    "who": "marvin",
+    "voice": "RlSVB64yXMZJjq67jbB1",
+    "tag": "[shy, gentle, a little hesitant]"
+  },
+  "talk-marvin-b": {
+    "file": "talk-marvin-b.mp3",
+    "text": "Hello, Marvin. What have you got there?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-marvin-c": {
+    "file": "talk-marvin-c.mp3",
+    "text": "It's a pebble. A special one. Look how smooth it is. I collect special things.",
+    "who": "marvin",
+    "voice": "RlSVB64yXMZJjq67jbB1",
+    "tag": "[shy, gentle, a little hesitant]"
+  },
+  "talk-marvin-d-1": {
+    "file": "talk-marvin-d-1.mp3",
+    "text": "Are those special things too? Can I see your collection?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-marvin-d-2": {
+    "file": "talk-marvin-d-2.mp3",
+    "text": "A fish, jumping! Do you like swimming, Marvin?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-marvin-e1": {
+    "file": "talk-marvin-e1.mp3",
+    "text": "Really? You want to see? Nobody ever asks! I keep it in my holt, under the tree roots.",
+    "who": "marvin",
+    "voice": "RlSVB64yXMZJjq67jbB1",
+    "tag": "[shy, gentle, a little hesitant]"
+  },
+  "talk-marvin-e2": {
+    "file": "talk-marvin-e2.mp3",
+    "text": "An otter's home is called a holt. Otters are shy, and hide their holts close to the water.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "talk-marvin-e3": {
+    "file": "talk-marvin-e3.mp3",
+    "text": "Here. You can have this pebble, Oona. To start a collection of your very own.",
+    "who": "marvin",
+    "voice": "RlSVB64yXMZJjq67jbB1",
+    "tag": "[shy, gentle, a little hesitant]"
+  },
+  "talk-marvin-f1": {
+    "file": "talk-marvin-f1.mp3",
+    "text": "I love swimming! Under the water, I can close up my ears, and my nose.",
+    "who": "marvin",
+    "voice": "RlSVB64yXMZJjq67jbB1",
+    "tag": "[shy, gentle, a little hesitant]"
+  },
+  "talk-marvin-f2": {
+    "file": "talk-marvin-f2.mp3",
+    "text": "You can close your ears? Wow!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-marvin-f3": {
+    "file": "talk-marvin-f3.mp3",
+    "text": "It keeps the water out. Otters are very, very good swimmers.",
+    "who": "marvin",
+    "voice": "RlSVB64yXMZJjq67jbB1",
+    "tag": "[shy, gentle, a little hesitant]"
+  },
+  "talk-marvin-z": {
+    "file": "talk-marvin-z.mp3",
+    "text": "Thank you for sitting with me, Oona. It's nice, having a friend.",
+    "who": "marvin",
+    "voice": "RlSVB64yXMZJjq67jbB1",
+    "tag": "[shy, gentle, a little hesitant]"
+  },
+  "talk-silky-a": {
+    "file": "talk-silky-a.mp3",
+    "text": "Hello, little Oona. Sit beside me, and let's watch the waves come in.",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "talk-silky-b": {
+    "file": "talk-silky-b.mp3",
+    "text": "Silky, you know everything about the sea.",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-silky-c": {
+    "file": "talk-silky-c.mp3",
+    "text": "Not everything, dear. But I have swum a very long way.",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "talk-silky-d-1": {
+    "file": "talk-silky-d-1.mp3",
+    "text": "Look, a whale! Is that the biggest animal in the sea?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-silky-d-2": {
+    "file": "talk-silky-d-2.mp3",
+    "text": "What are those little sparkles in the water?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-silky-e1": {
+    "file": "talk-silky-e1.mp3",
+    "text": "The blue whale. The biggest animal there has ever been. Bigger than any dinosaur!",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "talk-silky-e2": {
+    "file": "talk-silky-e2.mp3",
+    "text": "A blue whale's heart is as big as a little car.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "talk-silky-f1": {
+    "file": "talk-silky-f1.mp3",
+    "text": "That's plankton, the smallest things in the sea. So tiny you can hardly see them. At night, some of them glow.",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "talk-silky-f2": {
+    "file": "talk-silky-f2.mp3",
+    "text": "I saw them! They sparkled when I swam!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-silky-g": {
+    "file": "talk-silky-g.mp3",
+    "text": "Tell me, Oona. What do you like best about the sea?",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "talk-silky-h-1": {
+    "file": "talk-silky-h-1.mp3",
+    "text": "Catching fish, like that one!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-silky-h-2": {
+    "file": "talk-silky-h-2.mp3",
+    "text": "Splashing in the waves, like that big one!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-silky-i1": {
+    "file": "talk-silky-i1.mp3",
+    "text": "Ha! Me too. We're both fishers, you and I.",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "talk-silky-j1": {
+    "file": "talk-silky-j1.mp3",
+    "text": "The waves are the sea's way of playing. I think it likes you too.",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "talk-silky-z": {
+    "file": "talk-silky-z.mp3",
+    "text": "The tide is turning. Off you go, now. I'll see you in the water.",
+    "who": "silky",
+    "voice": "1OYA2kgM85gF2eGN8HEp",
+    "tag": "[warmly, playful]"
+  },
+  "talk-bernie-a": {
+    "file": "talk-bernie-a.mp3",
+    "text": "Ahoy, Oona! Pull up a pebble. I've been exploring the rock pools.",
+    "who": "bernie",
+    "voice": "1yDXKNtyiAtDljYHKmZy",
+    "tag": "[cheerful, a jolly old seafarer]"
+  },
+  "talk-bernie-b": {
+    "file": "talk-bernie-b.mp3",
+    "text": "What did you find, Bernie?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-bernie-c": {
+    "file": "talk-bernie-c.mp3",
+    "text": "All sorts! Look closely, and a rock pool is a whole little world.",
+    "who": "bernie",
+    "voice": "1yDXKNtyiAtDljYHKmZy",
+    "tag": "[cheerful, a jolly old seafarer]"
+  },
+  "talk-bernie-d-1": {
+    "file": "talk-bernie-d-1.mp3",
+    "text": "Look, a starfish!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-bernie-d-2": {
+    "file": "talk-bernie-d-2.mp3",
+    "text": "Ooh, a shell! Where do you find yours, Bernie?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-bernie-e1": {
+    "file": "talk-bernie-e1.mp3",
+    "text": "It is! And did you know, a starfish can grow a brand new arm, if it loses one?",
+    "who": "bernie",
+    "voice": "1yDXKNtyiAtDljYHKmZy",
+    "tag": "[cheerful, a jolly old seafarer]"
+  },
+  "talk-bernie-e2": {
+    "file": "talk-bernie-e2.mp3",
+    "text": "A new arm? Wow!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-bernie-f1": {
+    "file": "talk-bernie-f1.mp3",
+    "text": "The sea brings them in. When a sea snail doesn't need its shell any more, someone like me can move in.",
+    "who": "bernie",
+    "voice": "1yDXKNtyiAtDljYHKmZy",
+    "tag": "[cheerful, a jolly old seafarer]"
+  },
+  "talk-bernie-f2": {
+    "file": "talk-bernie-f2.mp3",
+    "text": "Sometimes hermit crabs line up, biggest to smallest, and all swap shells at once, so everyone gets a better one!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "talk-bernie-g": {
+    "file": "talk-bernie-g.mp3",
+    "text": "Now, Oona. A crab always says goodbye properly. Watch. Click, click, click!",
+    "who": "bernie",
+    "voice": "1yDXKNtyiAtDljYHKmZy",
+    "tag": "[cheerful, a jolly old seafarer]"
+  },
+  "talk-bernie-z": {
+    "file": "talk-bernie-z.mp3",
+    "text": "Click, click, click! Bye, Bernie!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mama-a": {
+    "file": "talk-mama-a.mp3",
+    "text": "Come here, my little puffin. Snuggle in. Baba's nearly asleep already.",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "talk-mama-b": {
+    "file": "talk-mama-b.mp3",
+    "text": "Mama, will you tell me a story?",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mama-c": {
+    "file": "talk-mama-c.mp3",
+    "text": "Of course. Which story would you like?",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "talk-mama-d-1": {
+    "file": "talk-mama-d-1.mp3",
+    "text": "Look, a bit of eggshell! Tell me the story of when I was an egg!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mama-d-2": {
+    "file": "talk-mama-d-2.mp3",
+    "text": "This old leaf blew in with the wind. Tell me the story of the big storm!",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mama-e1": {
+    "file": "talk-mama-e1.mp3",
+    "text": "Once upon a time, Papa and I made this burrow. And in it, I laid one little white egg.",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "talk-mama-e2": {
+    "file": "talk-mama-e2.mp3",
+    "text": "We kept it warm for weeks and weeks. Then one morning: tap, tap, crack! Out came a fluffy little puffling. And that was you.",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "talk-mama-e3": {
+    "file": "talk-mama-e3.mp3",
+    "text": "Puffin mums and dads take turns, keeping their one egg warm.",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  },
+  "talk-mama-f1": {
+    "file": "talk-mama-f1.mp3",
+    "text": "Once, a great storm blew in from the sea. The wind howled, and the waves were as tall as the cliffs.",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "talk-mama-f2": {
+    "file": "talk-mama-f2.mp3",
+    "text": "But we were safe and dry, deep in our burrow, all cuddled up together. Just like now.",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "talk-mama-g": {
+    "file": "talk-mama-g.mp3",
+    "text": "Mama? I love you.",
+    "who": "oona",
+    "voice": "f4EpLLfw2IURnw62TRtz",
+    "tag": "[like an excited little girl]"
+  },
+  "talk-mama-h": {
+    "file": "talk-mama-h.mp3",
+    "text": "I love you too, Oona. All the way to the moon, and back again.",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "talk-mama-z": {
+    "file": "talk-mama-z.mp3",
+    "text": "Now close your eyes. Sleep tight, my little puffin.",
+    "who": "mama",
+    "voice": "kOvUpYLYS0rKGldsKcD1",
+    "tag": "[gently]"
+  },
+  "talk-hint": {
+    "file": "talk-hint.mp3",
+    "text": "What will Oona talk about? Tap something, and see!",
+    "who": "narrator",
+    "voice": "ZyYWFWAQ8NqzJGWzpBvJ",
+    "tag": "[softly, warmly, gently amused]"
+  }
+}
